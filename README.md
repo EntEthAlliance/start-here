@@ -8,9 +8,9 @@ The [Enterprise Ethereum Alliance](https://entethalliance.org/) is the member-le
 
 | I want to… | Start here |
 | --- | --- |
-| Review smart contract security requirements | [EthTrust working group and specifications](https://entethalliance.github.io/wg-ethtrust-site/) |
-| Understand enterprise privacy requirements | [State of Privacy on Ethereum for Enterprise](https://entethalliance.github.io/wg-privacy/privacy-report.html) |
-| Explore interoperability publications | [Crosschain Interoperability working group](https://entethalliance.github.io/crosschain-interoperability/) |
+| Review smart contract security requirements | [EthTrust working group and specifications](https://hub.entethalliance.org/wg-ethtrust-site/) |
+| Understand enterprise privacy requirements | [State of Privacy on Ethereum for Enterprise](https://hub.entethalliance.org/wg-privacy/privacy-report.html) |
+| Explore interoperability publications | [Crosschain Interoperability working group](https://hub.entethalliance.org/crosschain-interoperability/) |
 | Evaluate experimental token eligibility verification | [Shibui overview](https://entethalliance.github.io/rnd-rwa-erc3643-eas/) |
 | Explore agent-payment settlement research | [AP2 for Ethereum Settlement — Rialto](https://entethalliance.github.io/rialto-ap2-eth/) |
 | Understand Ethereum developments for institutions | [Ethereum Intelligence](https://intelligence.entethalliance.org/) |
@@ -21,8 +21,8 @@ The [Enterprise Ethereum Alliance](https://entethalliance.org/) is the member-le
 
 Requirements for assessing smart contract security.
 
-- **Approved specification:** [EthTrust v3](https://entethalliance.github.io/wg-ethtrust-site/spec/v3/), the current approved baseline and certification target.
-- **Review draft:** [EthTrust v4](https://entethalliance.github.io/wg-ethtrust-site/spec/v4/), an AI-generated initial draft seeking expert validation; not an approved EEA specification.
+- **Approved specification:** [EthTrust v3](https://hub.entethalliance.org/wg-ethtrust-site/spec/v3/), the current approved baseline and certification target.
+- **Review draft:** [EthTrust v4](https://hub.entethalliance.org/wg-ethtrust-site/spec/v4/), an AI-generated initial draft seeking expert validation; not an approved EEA specification.
 - **Give feedback:** [EthTrust-public](https://github.com/EntEthAlliance/EthTrust-public).
 - **Publication source:** [wg-ethtrust-site](https://github.com/EntEthAlliance/wg-ethtrust-site).
 
@@ -30,14 +30,14 @@ Requirements for assessing smart contract security.
 
 **Research publication:** *State of Privacy on Ethereum for Enterprise*, version 1, April 2026. The working group report maps enterprise requirements to Ethereum privacy solutions.
 
-- **Read:** [Interactive report](https://entethalliance.github.io/wg-privacy/privacy-report.html).
+- **Read:** [Interactive report](https://hub.entethalliance.org/wg-privacy/privacy-report.html).
 - **Source:** [wg-privacy](https://github.com/EntEthAlliance/wg-privacy).
 
 ### Crosschain interoperability
 
 **Working group resources:** publications on crosschain identifiers, security and decentralization, and DLT interoperability. Consult each publication for its own status and version.
 
-- **Read:** [Working group home and publications](https://entethalliance.github.io/crosschain-interoperability/).
+- **Read:** [Working group home and publications](https://hub.entethalliance.org/crosschain-interoperability/).
 - **Publication source:** [crosschain-interoperability](https://github.com/EntEthAlliance/crosschain-interoperability).
 - **Public feedback:** [wg-dlt-interop](https://github.com/EntEthAlliance/wg-dlt-interop). Its README includes a historical review window; check with the working group for current review opportunities.
 
@@ -69,7 +69,7 @@ This is not an EEA standard, EEA position, member work product or statement of m
 2. **Check the contribution rules.** Specification feedback and code contributions may follow different processes. Substantive specification proposals may require a non-member participation agreement.
 3. **Check existing issues.** Add context to an existing issue when it covers your topic; otherwise use the project's issue templates.
 4. **Discuss implementation work.** Follow the project's contribution guidance before submitting changes.
-5. **Join a working group.** See [EEA membership](https://entethalliance.org/become-a-member/) or [contact EEA](https://entethalliance.org/contact/) for participation details.
+5. **Join a working group.** See [EEA membership](https://entethalliance.org/membership/) or [contact EEA](https://entethalliance.org/about/) for participation details.
 
 This directory is maintained through issues and pull requests to this repository. For technical questions, use the relevant project's own guidance.
 
